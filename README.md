@@ -1,3 +1,3 @@
-#Octocat Coloring Page
+# Octocat Coloring Page
 
-## Vector goodness for your remixes. 
+Vector goodness for your remixes. 
